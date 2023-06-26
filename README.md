@@ -1,4 +1,4 @@
-# E-commerce-Web-Application-Using-PHP-and-MySQL
+## E-commerce-Web-Application-Using-PHP-and-MySQL
 
 This is an  e-commerce website project using PHP and MySQL where customers can buy products from sellers.
 
@@ -22,7 +22,8 @@ User needs to create an account first and then log in with their username and pa
 
 ## Screenshot 1     Home Page
 
-![image](https://github.com/gaurav0401/Eshop-Web-Application-Using-PHP-and-MySQL/assets/80095859/29a968f8-f69a-4bdb-9857-4d0f14bc5dc3)
+![image](https://github.com/gaurav0401/E-Commerce-Web-Application-Using-PHP-and-MySQL/assets/80095859/55572f6b-5fc9-44fa-9232-2d1b5ba7cdfd)
+
 
 
 ## Screenshot 2     Customer Login and Seller login page
