@@ -15,9 +15,9 @@ User needs to create an account first and then log in with their username and pa
 
 # For Customer
 
-     -Add product to cart
-     -Checkout products
-     -Check Order history
+     - Add product to cart
+     - Checkout products
+     - Check Order history
 
 
 ## Screenshot 1     Home Page
