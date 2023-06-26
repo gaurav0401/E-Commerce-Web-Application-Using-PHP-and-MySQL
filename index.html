@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>OneShopy</title>
+  <link rel="stylesheet" href="CSS/homestyle.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet'>
+  <link href="Images/favicon.ico" rel="icon" type="image/x-icon" />
+  <style>
+    .noClick{
+      pointer-events: none;
+    }
+    .front{
+      padding: 28px; margin-top: 110px;
+    }
+    @media only screen and (max-width: 840px) {
+      .front{
+      padding: 28px; margin-top: 30%;
+    }
+    }
+
+    .names{
+    font-size: 38px;
+    font-weight: 600;
+    margin: 0 0 40px;
+    text-align: center;
+    color: #d7fbf3;
+    padding-top: 10vh;
+
+}
+
+body{
+  background-image: url("index.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header{
+
+  background-color: rgb(40, 91, 203);
+  
+}
+
+
+
+
+  </style>
+
+</head>
+<body >
+
+
+
+<div class="site-container">
+  <div class="site-pusher">
+    
+    <header class="header">
+      
+      <a href="#" class="header__icon" id="header__icon"></a>
+      
+      
+      <a href="#" class="header__logo__Pc nonClick">OneShopy</a>
+      <a href="#" class="header__logo__Mob nonClick">OneShopy</a>
+      
+      <nav class="menu">
+        
+        <a href="index.html">Home</a>
+        <a href="files/customerlogin.html">Customer</a>
+        <a href="files/sellerlogin.html">Seller</a>
+        <a href="https://www.linkedin.com/in/gaurav-bhatt-b927321a6/" target="_blank">Contact Us</a>
+      </nav>
+      
+    </header>
+
+    <div class="site-content">
+      <div class="container" style="margin-top: 0;">
+        <button onclick="location.href='files/customerlogin.html'; " class="front" style=" background-color: rgb(47, 93, 193);">
+        <p style="font-size: 150%; margin-top: 0; margin-bottom: 5px; " >Customer</p>Wanna Buy Things?</button>
+        <button onclick="location.href='files/sellerlogin.html';" style="padding: 28px;  background-color: rgb(47, 93, 193);">
+        <p style="font-size: 150%; margin-top: 0; margin-bottom: 5px;" >Seller</p>Wanna Sell Things?</button>
+        
+      </div> 
+    </div>
+    <div class="site-cache" id="site-cache"></div>
+  </div> 
+</div> 
+<!-- <div class="names">Web project by: Aman Jha, Gaurav Bhatt, Priyank Aswal
+</div> -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+  <script  src="./script.js"></script>
+
+</body>
+</html>
