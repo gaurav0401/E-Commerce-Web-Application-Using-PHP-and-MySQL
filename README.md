@@ -28,7 +28,7 @@ User needs to create an account first and then log in with their username and pa
      
 
 
-## Screenshot 1:    Home Page
+## Screenshot 1:    Homepage
 
 ![image](https://github.com/gaurav0401/E-Commerce-Web-Application-Using-PHP-and-MySQL/assets/80095859/55572f6b-5fc9-44fa-9232-2d1b5ba7cdfd)
 
