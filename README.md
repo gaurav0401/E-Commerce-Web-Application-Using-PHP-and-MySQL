@@ -34,7 +34,7 @@ User needs to create an account first and then log in with their username and pa
 
 
 
-## Screenshot 2:    Customer Login and Seller login page
+## Screenshot 2:    Customer Login  page
 
 ![image](https://github.com/gaurav0401/Eshop-Web-Application-Using-PHP-and-MySQL/assets/80095859/24eb7129-afed-4357-ab3c-d1fe9be5d714)
 
