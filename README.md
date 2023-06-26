@@ -13,7 +13,7 @@ User needs to create an account first and then log in with their username and pa
    - Add  their shops
    - Add their  products
 
-# For Customer
+# For the  Customer:
 
      - Add product to cart
      - Checkout products
