@@ -1,4 +1,4 @@
-![image](https://github.com/gaurav0401/E-Commerce-Web-Application-Using-PHP-and-MySQL/assets/80095859/08684676-4476-452a-8e58-8fdc03283c9c)## E-commerce-Web-Application-Using-PHP-and-MySQL
+## E-commerce-Web-Application-Using-PHP-and-MySQL
 
 This is an  e-commerce website project using PHP and MySQL where customers can buy products from sellers.
 
