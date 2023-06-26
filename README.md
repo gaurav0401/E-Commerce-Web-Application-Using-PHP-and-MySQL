@@ -15,7 +15,7 @@ User needs to create an account first and then log in with their username and pa
      
 
 # For the  Customer:
-  They can:
+  They can-:
      - Add product to cart
      - Checkout products
      - Check Order history
