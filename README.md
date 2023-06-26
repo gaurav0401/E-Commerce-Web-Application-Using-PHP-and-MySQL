@@ -9,13 +9,13 @@ User needs to create an account first and then log in with their username and pa
 
 
  # For the seller:
-
+   They can-:
    - Add  their shops
    - Add their  products
      
 
 # For the  Customer:
-
+  They can:
      - Add product to cart
      - Checkout products
      - Check Order history
