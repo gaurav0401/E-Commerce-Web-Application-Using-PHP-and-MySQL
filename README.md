@@ -1,4 +1,4 @@
-## E-commerce-Web-Application-Using-PHP-and-MySQL
+# E-commerce-Web-Application-Using-PHP-and-MySQL
 
 This is an  e-commerce web project using PHP and MySQL where customers can buy products from sellers.
 
